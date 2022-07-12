@@ -1,0 +1,41 @@
+h1{
+    position: absolute;
+    font-size: 15px;
+    top: 30%;
+    width: 190px;
+    text-align: center;
+    margin: 5 auto;
+    border-radius:150px;
+    background-color:#FF9677;
+    padding:  65px 10px 30px 10px;
+}
+
+
+/*Não consigo por lado a lado as tags*/
+h2{
+    font-size: 20xp;
+    position: absolute;
+    top:40%;
+    left: 32%;
+    text-align: center;
+    width:500px;
+    height: 200x;
+   
+}
+h3{
+    position: absolute;
+    top: 90%;
+    left: 55%;
+}
+
+button{
+    position: absolute;
+    top: 110%;
+    left: 56%;
+    border-radius: 12px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+    
+}    
